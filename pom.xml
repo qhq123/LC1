@@ -25,6 +25,7 @@
                 <version>2.20</version>
                 <configuration>
                     <suiteXmlFiles>
+                        <!--suppress UnresolvedMavenProperty -->
                         <file>src/test/testXML/${xml}</file>
                     </suiteXmlFiles>
                 </configuration>
